@@ -7,4 +7,7 @@ We want to make a looper that can loop different parts.
 
 ## Features
 
+http://jsfiddle.net/ryanoc/uf9xpufp/
+http://jsfiddle.net/uf9xpufp/5/
+
 
