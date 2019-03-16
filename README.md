@@ -1,11 +1,19 @@
 # Hyperloop
-## Looping for language students
+## Learn With Movies
 
 Hyperloop is inspired by [http://www.infinitelooper.com/](infinitelooper)
 
-We want to make a looper that can loop different parts. 
+What's your favourute movie?
+What's your favourite line from that movie?
 
-## Features
+## Version Logs
+
+### Right now we're storing versions on Codepen.
+
+Check issues for latest tickets!
+
+
+## Early Features
 
 http://jsfiddle.net/ryanoc/uf9xpufp/
 http://jsfiddle.net/uf9xpufp/5/
