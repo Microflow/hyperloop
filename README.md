@@ -21,6 +21,14 @@ http://jsfiddle.net/uf9xpufp/13/
 
 # Design Features
 
+Placeholder effects
+
+https://codepen.io/Mestika/pen/EKRoeB
+
+Placeholder effects, amusing
+
+https://codepen.io/MichaelArestad/pen/ohLIa
+
 Blinking cursor effect
 
 https://codepen.io/stathisg/pen/Bkvhg
