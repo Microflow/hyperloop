@@ -61,6 +61,17 @@ https://css-tricks.com/the-backdrop-filter-css-property/
 
 https://codepen.io/akshaycodes/pen/VdBYvM
 
+# Backdrop Filter Slideshow
+
+https://codepen.io/ycw/pen/RYoPmK
+
+# Opaque Div over youtube
+
+https://stackoverflow.com/questions/3820325/overlay-opaque-div-over-youtube-iframe
+
+# Youtube vid with mmessage, and autoplay.
+
+https://codepen.io/esedic/pen/JJoKgO
 
 
 
