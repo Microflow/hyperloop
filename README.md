@@ -19,6 +19,12 @@ http://jsfiddle.net/ryanoc/uf9xpufp/
 http://jsfiddle.net/uf9xpufp/5/
 http://jsfiddle.net/uf9xpufp/13/
 
+# Design Features
+
+Blinking cursor effect
+
+https://codepen.io/stathisg/pen/Bkvhg
+
 
 
 
