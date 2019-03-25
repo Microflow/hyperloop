@@ -29,6 +29,10 @@ Trails on Cursor (omg)
 
 https://codepen.io/tholman/pen/jWmZxZ
 
+More sedate colors and trails:
+
+https://codepen.io/Teeke/pen/jJJoyW
+
 
 
 
