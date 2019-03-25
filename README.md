@@ -49,6 +49,20 @@ https://codepen.io/ipacmanx/pen/NLeEwJ
 
 https://css-tricks.com/css-techniques-and-effects-for-knockout-text/
 
+# Minimal Buttons
+
+https://codepen.io/ben_jammin/pen/PwdYjM
+
+# CSS backdrop filter
+
+https://css-tricks.com/the-backdrop-filter-css-property/
+
+# Minimal Button Reveals Twitter Medium Insta Icons
+
+https://codepen.io/akshaycodes/pen/VdBYvM
+
+
+
 
 
 
