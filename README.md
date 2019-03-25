@@ -25,6 +25,10 @@ Blinking cursor effect
 
 https://codepen.io/stathisg/pen/Bkvhg
 
+Trails on Cursor (omg)
+
+https://codepen.io/tholman/pen/jWmZxZ
+
 
 
 
