@@ -41,6 +41,14 @@ More sedate colors and trails:
 
 https://codepen.io/Teeke/pen/jJJoyW
 
+# Weird input
+
+https://codepen.io/ipacmanx/pen/NLeEwJ
+
+# Knockout Text
+
+https://css-tricks.com/css-techniques-and-effects-for-knockout-text/
+
 
 
 
