@@ -90,6 +90,10 @@ https://www.pexels.com/search/sofa/
 
 https://chrome.google.com/webstore/detail/chrome-audio-capture/kfokdmfpdnokpmpbjhjbcabgligoelgp?hl=en
 
+# Short Box Borders
+
+https://www.steckinsights.com/shorten-length-border-bottom-pure-css/
+
 
 
 
