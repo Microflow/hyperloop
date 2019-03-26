@@ -94,6 +94,10 @@ https://chrome.google.com/webstore/detail/chrome-audio-capture/kfokdmfpdnokpmpbj
 
 https://www.steckinsights.com/shorten-length-border-bottom-pure-css/
 
+# Chinese Text
+
+https://codepen.io/kimaro/pen/BjqYeo
+
 
 
 
