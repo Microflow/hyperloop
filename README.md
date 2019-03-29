@@ -3,8 +3,25 @@
 
 Hyperloop is inspired by [http://www.infinitelooper.com/](infinitelooper)
 
-What's your favourute movie?
-What's your favourite line from that movie?
+What's your favourite movie line?
+
+## Quarterstones + Milestones
+
+## Mile 1
+
+### Get Design Good. 
+### Fix Responsive layout
+### Fix Save Feature
+### Demo to group of 3 people in office, hold mini class (in projector room at CC). 
+### Demo app in 
+### Make 5 example lessons. 
+### Set up Patreon
+
+## Mile 2.
+
+### Train someone else to use and demo it. 
+### Get on C9 and Github.
+
 
 ## Version Logs
 
@@ -32,6 +49,10 @@ https://codepen.io/MichaelArestad/pen/ohLIa
 Blinking cursor effect
 
 https://codepen.io/stathisg/pen/Bkvhg
+
+Trip JS... AMAZING!
+
+https://codepen.io/riyos94/pen/BYBedZ?editors=1000
 
 Trails on Cursor (omg)
 
